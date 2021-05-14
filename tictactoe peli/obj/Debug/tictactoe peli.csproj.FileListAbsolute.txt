@@ -1,0 +1,20 @@
+F:\visual studion repot\tictactoe peli\tictactoe peli\bin\Debug\tictactoe peli.exe.config
+F:\visual studion repot\tictactoe peli\tictactoe peli\bin\Debug\tictactoe peli.exe
+F:\visual studion repot\tictactoe peli\tictactoe peli\bin\Debug\tictactoe peli.pdb
+F:\visual studion repot\tictactoe peli\tictactoe peli\obj\Debug\tictactoe peli.csprojAssemblyReference.cache
+F:\visual studion repot\tictactoe peli\tictactoe peli\obj\Debug\tictactoe_peli.Form1.resources
+F:\visual studion repot\tictactoe peli\tictactoe peli\obj\Debug\tictactoe_peli.Properties.Resources.resources
+F:\visual studion repot\tictactoe peli\tictactoe peli\obj\Debug\tictactoe peli.csproj.GenerateResource.cache
+F:\visual studion repot\tictactoe peli\tictactoe peli\obj\Debug\tictactoe peli.csproj.CoreCompileInputs.cache
+F:\visual studion repot\tictactoe peli\tictactoe peli\obj\Debug\tictactoe peli.exe
+F:\visual studion repot\tictactoe peli\tictactoe peli\obj\Debug\tictactoe peli.pdb
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\bin\Debug\tictactoe peli.exe.config
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\bin\Debug\tictactoe peli.exe
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\bin\Debug\tictactoe peli.pdb
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.csprojAssemblyReference.cache
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe_peli.Form1.resources
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe_peli.Properties.Resources.resources
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.csproj.GenerateResource.cache
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.csproj.CoreCompileInputs.cache
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.exe
+F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.pdb
