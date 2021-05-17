@@ -18,3 +18,13 @@ F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe 
 F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.csproj.CoreCompileInputs.cache
 F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.exe
 F:\visual studion repot\tictactoe peli\repot\tictactoe peli\obj\Debug\tictactoe peli.pdb
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\bin\Debug\tictactoe peli.exe.config
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\bin\Debug\tictactoe peli.exe
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\bin\Debug\tictactoe peli.pdb
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\obj\Debug\tictactoe peli.csprojAssemblyReference.cache
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\obj\Debug\tictactoe_peli.Form1.resources
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\obj\Debug\tictactoe_peli.Properties.Resources.resources
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\obj\Debug\tictactoe peli.csproj.GenerateResource.cache
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\obj\Debug\tictactoe peli.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\obj\Debug\tictactoe peli.exe
+C:\Users\jesse\Source\Repos\jezzze\Kehitysymparisto-rastit\tictactoe peli\obj\Debug\tictactoe peli.pdb

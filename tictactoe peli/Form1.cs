@@ -75,16 +75,24 @@ namespace tictactoe_peli
 
                 string voittaja = "";
                 if (turn)
+                {
                     voittaja = "O";
+                    o_voitto_laskuri.Text = (Int32.Parse(o_voitto_laskuri.Text) + 1).ToString();
+                }
                 else
+                {
                     voittaja = "X";
+                    x_voitto_laskuri.Text = (Int32.Parse(x_voitto_laskuri.Text) + 1).ToString();
+                }
                 MessageBox.Show(voittaja + " Voittaa!", "Jee!");
             }//if loppu
             else
             {
-                if(turn_count == 9)
+                if (turn_count == 9)
+                {
                     MessageBox.Show("tasapeli!", "voi ei!");
-
+                    tasapeli_laskuri.Text = (Int32.Parse(tasapeli_laskuri.Text) + 1).ToString();
+                }
             }
         }//tarkistavoittaja loppu
         private void disableButtons()
@@ -106,17 +114,49 @@ namespace tictactoe_peli
             turn = true;
             turn_count = 0;
 
-            try
+            
+            foreach (Control c in Controls)
             {
-                foreach (Control c in Controls)
+                try
                 {
                     Button b = (Button)c;
                     b.Enabled = true;
                     b.Text = "";
-                }//foreach loppu
+                }//try loppu
+                catch { }
+            }//foreach loppu
 
-            }//try loppu
-            catch { }
+           
+        }
+
+        private void button_enter(object sender, EventArgs e)
+        {
+            Button b = (Button)sender;
+            if (b.Enabled)
+            { 
+                if (turn)
+
+                    b.Text = "X";
+                else
+                    b.Text = "O";
+        }//if loppu
+        }
+
+        private void button_leave(object sender, EventArgs e)
+        {
+            Button b = (Button)sender;
+            if (b.Enabled)
+            {
+                b.Text = "";
+            }//if loppu
+        }
+
+        private void nollaaVoittoLaskuriToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            o_voitto_laskuri.Text = "0";
+            x_voitto_laskuri.Text = "0";
+            tasapeli_laskuri.Text = "0";
+
         }
     }
 }
