@@ -1,0 +1,10 @@
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\bin\Debug\Laskin1.exe.config
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\bin\Debug\Laskin1.exe
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\bin\Debug\Laskin1.pdb
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\obj\Debug\Laskin1.csprojAssemblyReference.cache
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\obj\Debug\Laskin1.Properties.Resources.resources
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\obj\Debug\Laskin1.csproj.GenerateResource.cache
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\obj\Debug\Laskin1.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\obj\Debug\Laskin1.exe
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\obj\Debug\Laskin1.pdb
+C:\Users\jesse\source\repos\jezzze\Kehitysymparisto-rastit\Laskin1\Laskin1\Laskin1\obj\Debug\Laskin1.equation.resources
